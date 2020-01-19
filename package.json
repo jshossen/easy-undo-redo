@@ -1,0 +1,16 @@
+{
+  "name": "easy-undo-redo",
+  "version": "1.0.1",
+  "description": "Easy Undo Redo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "author": "jshossen",
+  "license": "ISC",
+  "dependencies": {}
+}
