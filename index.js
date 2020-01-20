@@ -14,8 +14,7 @@
 // UndoRedo.save("Your updated data");
 // UndoRedo.undo(); //returns undo result
 // UndoRedo.redo(); //returns redo result
-
-module.export.easyUndoRedo = function(options) {
+module.exports.easyUndoRedo = function(options) {
 	var settings = options ? options : {};
 	var undoRedoFlag =0 ;
 	var defaultOptions = {
